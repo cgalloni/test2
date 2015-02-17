@@ -1,0 +1,34 @@
+Looked @ 1373 modules
+Total number of pixels with good fit : 62066481 over 63564800 -> 97.6428 %
+In BPIX : 46415347 over 46891520 -> 98.9845 %
+In FPIX : 15651134 over 16673280 -> 93.8696 %
+
+Number of pixels with |status| = 0 :  1046138
+Number of pixels with |status| = 1 :   359558
+Number of pixels with |status| = 2 :    30808
+Number of pixels with |status| = 3 :   126619
+Number of pixels with |status| = 4 :        0
+Number of pixels with |status| = 5 : 61580603
+Number of pixels with |status| = 6 :        0
+Number of pixels with |status| = 7 :   416175
+Number of pixels with |status| = 8 :     4899
+
+Number of  pixels with gain > 20 || fabs(ped) > 200 :   299
+Number of  pixels with gain > 7 :   2780
+Number of columns with gain > 7 :   67
+Number of    ROCs with gain > 7 :   3
+
+Gain Mean : 
+BPIX : 2.76891 +- 0.429025
+FPIX : 2.70476 +- 0.475486
+Gain Error Mean : 
+BPIX : 0.00132377 +- 0.000489268
+FPIX : 0.00152355 +- 0.000662914
+
+Pedestal Mean : 
+BPIX : 36.9434 +- 10.5094
+FPIX : 32.4663 +- 11.3439
+Pedestal Error Mean : 
+BPIX : 0.24121 +- 0.0684874
+FPIX : 0.262039 +- 0.0845819
+
